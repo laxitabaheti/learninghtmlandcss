@@ -1,0 +1,27 @@
+body {
+  font-family: Garamond, serif;
+  background-color: floralwhite;
+  color: hsl(248, 79%, 35%);
+  font-size: 30px;
+  margin: 30px;
+}
+
+.newpara-style {
+  font-family: "Lora";
+  font-size: 20px;
+  color: rgb(3, 92, 50);
+}
+
+.poem-style {
+  font-family: "Lora";
+  font-size: 20px;
+  color: rgb(214, 22, 54);
+  text-align: center;
+  background-color: black;
+}
+
+.div1 {
+  font-family: "Lora";
+  font-size: 20px;
+  color: rgb(0, 39, 21);
+}
