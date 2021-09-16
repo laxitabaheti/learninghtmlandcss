@@ -25,3 +25,35 @@ body {
   font-size: 20px;
   color: rgb(0, 39, 21);
 }
+
+.border-style {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  border: 1px solid black;
+  padding: 5px;
+  margin: 5px;
+}
+
+.link-style:link,
+.link-style:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.link-style:hover,
+.link-style:active {
+  background-color: red;
+}
+
+.bck-image {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqQMwq_mZ2I9qpXPhmIeJ5on2jZTavrF65Kw&usqp=CAU");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+}
+
